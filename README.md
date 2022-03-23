@@ -12,7 +12,7 @@ Step one fork and clone the repository through github. Step two copy and open th
 
 By doing this you can take a look at the code and make changes. 
 
-##usage
+## Usage
 
 The following is an image of what has been create in the file. With that being said both the HTML and CSS document can be edited to make various changes to color, text, images, etc..
 
